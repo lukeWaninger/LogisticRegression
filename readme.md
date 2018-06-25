@@ -1,4 +1,4 @@
-### Logistic Regression
+## Logistic Regression
 
 The file logistic_regression.py is my implementation of a logistic regression classifier with L2 regularization. The
 optimization problem is solved using the fast-gradient descent algorithm.
@@ -13,4 +13,3 @@ comparison to scikit-learn.
 * The Digits demo by default uses all CPU cores available. To lower this setting, change the cpu_count variable in the
 first cell of the demo.
 
-enjoy!
